@@ -29,3 +29,32 @@ def add(a,b=10,c=20):
 
 result = add(10,c=5)
 print(result)
+
+# The variable arguments is length of the positional argumnets and prints in TUPLES
+  
+def add(*args):
+    return sum(args)
+
+result = add(10,5,20,40)
+print(result)
+
+def add(*args):
+    print(f"sum of nubers:{sum(args)}") 
+
+add(10,5,20,40)
+
+#keywaord variable is length of keywords and prints in DICITIONARY.
+
+def add(**kwargs):
+    return sum(kwargs.values())
+
+result = add(a=10,b=5,c=20,d=40)
+print(result)
+
+
+######## precendence (a,b,*args,**kwargs) ###########
+
+
+
+
+
