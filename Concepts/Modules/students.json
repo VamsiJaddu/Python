@@ -1,0 +1,26 @@
+{
+    "student1": {
+        "name": "Jhon",
+        "age": 24,
+        "sport": true,
+        "percent": 90.5
+    },
+    "student2": {
+        "name": "Jhon",
+        "age": 23,
+        "sport": true,
+        "percent": 80.5
+    },
+    "student3": {
+        "name": "Jhon",
+        "age": 25,
+        "sport": false,
+        "percent": 91.5
+    },
+    "student4": {
+        "name": "Alex",
+        "age": 25,
+        "sport": false,
+        "percent": 91.5
+    }
+}
