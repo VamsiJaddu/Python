@@ -2,7 +2,7 @@
 
 # Imported function from function_6.py
 
-from function_6 import add
+from Concepts.functions.function_5 import add
 
 a = float(input("Enter the value od a : "))
 b = float(input("Enter the value of b : "))
