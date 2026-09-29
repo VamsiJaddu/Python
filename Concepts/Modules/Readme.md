@@ -7,4 +7,5 @@
 ## Json Module
 ## pickle Module 
 ## datetime Module
-## random Module
+## math Module
+## re module (regex)
